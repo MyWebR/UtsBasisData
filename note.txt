@@ -7,6 +7,9 @@ cara penggunaan code
 // klik kanan pada database yang dibuat > new query (nama query bebas)
 // copy code pada file yang ber extension (sql)
 
+
+// LANGKAH LANGKAH DI BAWAH MENGIKUTI SOAL PADA (FILE USAL UTS.pdf)
+
 // langkah pebuatan table, insert table dan left table
 // 1. copy code pada file create_table.sql
       letakan code pada query yang telah di buat
