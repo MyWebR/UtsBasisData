@@ -1,0 +1,24 @@
+cara penggunaan code
+
+// pastikan sudah membuat koneksi database di mysql workbrench
+// jika sudah buka aplikasi navichat
+// buat koneksi di navichat untuk menghubungkan dengan database yang sebelumnya di buat pada mysql workbranch
+// buat database di navichat
+// klik kanan pada database yang dibuat > new query (nama query bebas)
+// copy code pada file yang ber extension (sql)
+
+// langkah pebuatan table, insert table dan left table
+// 1. copy code pada file create_table.sql
+      letakan code pada query yang telah di buat
+          jalanan code (run)
+// 2. copy code pada file inser_table.sql   
+      letkan pada query yang sudah di buat (disarankan membuat query khusus untuk insert,
+      jangan di samakan dengan query create table )
+      jalankan code (run)
+// 3. copy code pada file left_table.sql
+      letakan pada query yang sudah di buat (disarankan membuat query khusus untuk insert,
+      jangan di samakan dengan query create table )
+
+
+// jika sudah mengikuti langkah langkah tabel akan jadi seperti pada file jawaban_uts_basdat_15194
+      
